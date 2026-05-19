@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:00_Global",
+      "color": {
+        "a": 1,
+        "rgb": 4937059
+      }
+    },
+    {
+      "query": "path:references",
+      "color": {
+        "a": 1,
+        "rgb": 4937059
+      }
+    },
+    {
+      "query": "path:Marketing_Project",
+      "color": {
+        "a": 1,
+        "rgb": 3120708
+      }
+    },
+    {
+      "query": "path:Stop_Slop_Project",
+      "color": {
+        "a": 1,
+        "rgb": 15764480
+      }
+    },
+    {
+      "query": "path:UI_UX_Pro_Max_Project",
+      "color": {
+        "a": 1,
+        "rgb": 10237621
+      }
+    },
+    {
+      "query": "path:Remotion_Project",
+      "color": {
+        "a": 1,
+        "rgb": 1667522
+      }
+    },
+    {
+      "query": "path:Context_Engineering_Project",
+      "color": {
+        "a": 1,
+        "rgb": 9268835
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.4929777166558205,
+  "close": true
+}

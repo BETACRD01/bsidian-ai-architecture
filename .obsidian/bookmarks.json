@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "path": "00_Global/00_Command_Center.md"
+    },
+    {
+      "type": "file",
+      "path": "Marketing_Project/00_Dashboard/Marketing_Overview.md"
+    },
+    {
+      "type": "file",
+      "path": "Stop_Slop_Project/00_Dashboard/StopSlop_Overview.md"
+    },
+    {
+      "type": "file",
+      "path": "UI_UX_Pro_Max_Project/00_Dashboard/UI_UX_Overview.md"
+    }
+  ]
+}

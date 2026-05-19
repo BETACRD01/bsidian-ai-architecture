@@ -1,0 +1,17 @@
+.DS_Store
+**/.DS_Store
+
+.Trash/
+.Trashes/
+
+*.tmp
+*.temp
+*.log
+
+node_modules/
+dist/
+build/
+out/
+
+.env
+.env.*

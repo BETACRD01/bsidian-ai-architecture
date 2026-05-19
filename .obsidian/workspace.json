@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "334c075e1ae24f19",
+    "type": "split",
+    "children": [
+      {
+        "id": "e499ff2422e8cc64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2e42eca08f81a04",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f519aa2b1a9942a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f348d11c18fc3d93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce308922b99c8ad9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "b3f4e611b98f102c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "4562b803bc3eed09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4916700704f612d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d21935dbb9f2f9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc9de5a6dc1811bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "a01cb7f7b3fb5354",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "2057a676d179a01d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "dc74c3e4e74041a9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "944b9975aa623ecf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "c2e42eca08f81a04",
+  "lastOpenFiles": [
+    "README.md",
+    "Context_Engineering_Project/10_Foundations/Foundations_Index.md",
+    "00_Global/Skill_Routing_Map.md",
+    "UI_UX_Pro_Max_Project/10_Skills/UI_UX_Skills_Index.md",
+    "Stop_Slop_Project/10_Skills/Stop_Slop_Skills_Index.md",
+    "Remotion_Project/10_Skills/Remotion_Skills_Index.md",
+    "Marketing_Project/10_Skills/Marketing_Skills_Index.md",
+    "Context_Engineering_Project/60_Reference/Reference_Index.md",
+    "Context_Engineering_Project/50_Protocols/Protocols_Index.md",
+    "Context_Engineering_Project/40_Cognitive_Tools/Cognitive_Tools_Index.md",
+    "Context_Engineering_Project/30_Templates/Templates_Index.md",
+    "Context_Engineering_Project/20_Course/Course_Index.md",
+    "00_Global/Agent_Context_Map.md",
+    "Context_Engineering_Project/20_Course/04_retrieval_augmented_generation/00_rag_fundamentals.md",
+    "Context_Engineering_Project/30_Templates/PROMPTS/portfolio.agent.md",
+    "Context_Engineering_Project/00_Dashboard/Context_Overview.md",
+    "Marketing_Project/00_Dashboard/Marketing_Overview.md",
+    "Context_Engineering_Project/20_Course/03_context_management/labs/memory_management_lab.py",
+    "Context_Engineering_Project/20_Course/02_context_processing/labs/structured_data_lab.py",
+    "Context_Engineering_Project/20_Course/02_context_processing/labs/self_refinement_lab.py",
+    "Context_Engineering_Project/20_Course/02_context_processing/labs/multimodal_lab.py",
+    "Context_Engineering_Project/20_Course/02_context_processing/labs/long_context_lab.py",
+    "Context_Engineering_Project/20_Course/02_context_processing/implementations/refinement_loops.py",
+    "Context_Engineering_Project/20_Course/02_context_processing/implementations/multimodal_processors.py",
+    "Context_Engineering_Project/20_Course/02_context_processing/implementations/attention_mechanisms.py",
+    "Context_Engineering_Project/20_Course/02_context_processing/benchmarks/processing_metrics.py",
+    "Context_Engineering_Project/20_Course/02_context_processing/benchmarks/long_context_evaluation.py",
+    "Context_Engineering_Project/20_Course/01_context_retrieval_generation/labs/README.md",
+    "Context_Engineering_Project/20_Course/01_context_retrieval_generation/case_studies/retrieval_optimization.md",
+    "Context_Engineering_Project/20_Course/01_context_retrieval_generation/case_studies/domain_specific_prompting.md",
+    "Context_Engineering_Project/20_Course/00_mathematical_foundations/exercises/README.md",
+    "Context_Engineering_Project/50_Protocols/shells/recursive.memory.attractor.shell.md",
+    "Context_Engineering_Project/50_Protocols/shells/recursive.emergence.shell.md",
+    "Context_Engineering_Project/50_Protocols/shells/memory.reconstruction.attractor.shell.md",
+    "Context_Engineering_Project/50_Protocols/shells/field.self_repair.shell.md",
+    "Context_Engineering_Project/50_Protocols/shells/field.resonance.scaffold.shell.md",
+    "Marketing_Project/30_Archive/Sin título 1.canvas",
+    "Marketing_Project/30_Archive/Sin título.canvas",
+    "Marketing_System_Graph.svg",
+    "30_Archive/Sin título.canvas",
+    "30_Archive/Sin título 1.canvas",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
+    "Sin título 5.canvas",
+    "Sin título 4.canvas",
+    "Sin título 3.canvas",
+    "Sin título 2.canvas"
+  ]
+}
